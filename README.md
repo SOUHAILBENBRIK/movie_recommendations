@@ -45,6 +45,5 @@ You can install them using the following command:
 2. Follow the provided instructions in the notebook to input your preferences and get personalized movie recommendations.
 
 ### ScreenShot
-![1.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/s1.PNG)
-![2.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/s2.PNG)
-![3.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/s3.PNG)
+![1.screenshot](https://github.com/SOUHAILBENBRIK/movie_recommendations/blob/master/Capture.PNG)
+![2.screenshot](https://github.com/SOUHAILBENBRIK/movie_recommendations/blob/master/Capture1.PNG)
