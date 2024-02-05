@@ -35,9 +35,9 @@ You can install them using the following command:
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/SOUHAILBENBRIK/fitness-app.git
+   git clone https://github.com/SOUHAILBENBRIK/movie_recommendations
 2. Navigate to the project directory:
-   cd fitness-app
+   cd movie_recommendations
 3.Open the Jupyter Notebook in your preferred environment and run the code cells.
 ### Usage
 
